@@ -1,0 +1,9 @@
+tensorflow-macos ## tensorflow>=2.16.0 in git change for deployment
+tensorflow-metal  # Optional for GPU support
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
