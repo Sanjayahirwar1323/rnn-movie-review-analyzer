@@ -1,5 +1,4 @@
 tensorflow>=2.16.0 
-tensorflow-metal  # Optional for GPU support
 pandas 
 numpy 
 scikit-learn
